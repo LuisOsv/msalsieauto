@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Spring Boot FreeMarker example - viralpatel.net</title>
+<title>Spring Boot FreeMarker example</title>
 
 <link href="/bootstrap/4.0.0-beta/css/bootstrap.min.css"
 	rel="stylesheet">
